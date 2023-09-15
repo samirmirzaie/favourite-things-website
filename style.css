@@ -1,0 +1,17 @@
+a {
+    color: darkcyan;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+body {
+    
+    width: 850px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
